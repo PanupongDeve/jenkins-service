@@ -1,3 +1,6 @@
 id --> see pid
 
 chmod -R 1000:1000 jenkins_home
+
+
+sudo cp /usr/share/zoneinfo/Asia/Bangkok /etc/localtime
